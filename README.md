@@ -8,6 +8,7 @@
 - stylus
 - vue-cli
 - Element UI
+- Echarts
 
 ## 安装命令
 
